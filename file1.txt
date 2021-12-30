@@ -10,3 +10,4 @@ change 2 is done
 
 
 changes for adding in stash
+change - for wi6 on local master to test normal
