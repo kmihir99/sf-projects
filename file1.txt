@@ -9,6 +9,11 @@ change added for login feature and one more time change is done for bug 2skjfh
 change 2 -is done
 
 
+
 changes- for adding in stash
-change dd- for wi6 on local master to test normal
+change d- for wi6 on local master to test normal
 change : this is related to bug 3
+
+changes for adding in stash
+change - e for wi6 on local master to test normal
+change - this is on local master for wi7
